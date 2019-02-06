@@ -17,3 +17,10 @@ Its better to return a Nothing() value, which is a safer way of saying null or u
 We can still continueing composing and calling functions on a Nothing() because it is a monad that
 has map methods and so on.
 
+
+Another benefit to the Maybe type is it often has a getOrElse method on it. Example:
+```js
+const name = username.getOrElse('Enter first name');
+```
+If the username has a Just value, it will be the a value, if its a Nothing value, than you can 
+recover with the 'OrElse'.
