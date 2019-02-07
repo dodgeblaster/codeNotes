@@ -48,3 +48,15 @@ const getCountry = student => student
   .map(R.prop('country'))
     .getOrElse('Country does not exist.')
 ```
+If any of the R.prop lines returns a Nothing, all the following lines will be skipped.
+
+
+## Either Type
+Maybe is great for handling unsafe functions, but they do not tell us where things went wrong.
+
+Instead of returning Just or Nothing, Either returns Left or Right.
+- Left contains a possible error message
+- Right contains a successful value
+
+A common use of Either is to hold the results of a computation that may fail to provide additional information as to what the failure is. In unrecoverable cases, the left can contain the proper exception object to throw.
+
