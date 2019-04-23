@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=O2GQRC0sVA8
 # 2. Watch serverless development course on aws.training
 - go to aws.training
 - sign up for serverless development course
+
+# 3. Watch AWS Intro video on Youtube
+https://www.youtube.com/watch?v=MC6HY-Xbhis
