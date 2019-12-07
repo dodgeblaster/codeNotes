@@ -1,2 +1,0 @@
-- [Twitter Salary Feed](https://twitter.com/joshbuchea/status/1148085012698296321)
-- [Medium post on salary](https://medium.com/@TuckerConnelly/programmers-stop-undervaluing-your-time-9e238dd72461)
