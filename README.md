@@ -35,6 +35,12 @@ Hi, this is a spot where I put all my notes on code.
 
 -   [NOTES: General Notes](fp/general.md)
 
+### Design
+- [Colors Article](https://uxmisfit.com/2019/05/21/ui-design-in-practice-colors/)
+- [Color in UI Design](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
+- [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+- [Learn UI Design](https://learnui.design/)
+
 ### React Notes
 
 -   [ARTICLE: The S.Component Pattern](https://medium.com/inturn-eng/naming-styled-components-d7097950a245)
