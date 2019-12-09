@@ -2,6 +2,10 @@
 
 Hi, this is a spot where I put all my notes on code.
 
+
+### Modern Application Development (according to AWS)
+- [NOTES: Summary and Guide](modernapplicationdevelopment.md)
+
 ### Serverless
 
 -   [WHITEPAPER: AWS Serverless Paper 2015](https://d1.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
