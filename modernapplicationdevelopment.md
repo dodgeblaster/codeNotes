@@ -5,7 +5,7 @@ Invention requires two things: the ability to try a lot of experiments, and not 
 
 - [Modern Application Development Overview](https://aws.amazon.com/modern-apps/)
 - [Serverless Development](https://aws.amazon.com/serverless/)
-
+- [PDF: Modern Application Development PDF](ModernApplicationDevelopment.pdf)
 
 ## Why? Rapid Innovation
 Companies are looking to become more agile so they can innovate and respond to change faster. This requires a different kind of application than what was common years ago. Applications now need to scale quickly to potentially millions of users, have global availability, manage petabytes if not exabytes of data, and respond in milliseconds. We call these modern applications, and they cover use cases from web and mobile backends, IoT applications, AI/ML workloads, batch processing, PaaS solutions, microservice backends, and more. Modern applications are built with a combination of these new architecture patterns, operational models, and software delivery processes, and they allow businesses to innovate faster while reducing risk, time to market, and total cost of ownership.
