@@ -5,6 +5,7 @@ Hi, this is a spot where I put all my notes on code.
 
 ### Modern Application Development (according to AWS)
 - [NOTES: Summary and Guide](modernapplicationdevelopment.md)
+- [PDF: Modern Application Development PDF](ModernApplicationDevelopment.pdf)
 
 ### Serverless
 
