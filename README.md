@@ -36,6 +36,13 @@ Hi, this is a spot where I put all my notes on code.
 -   [NOTES: General Notes](ddd/notes.md)
 -   [ARTICLE: Hexegonal Architexture](https://beyondxscratch.com/2017/08/19/decoupling-your-technical-code-from-your-business-logic-with-the-hexagonal-architecture-hexarch/)
 
+### Event Driven Arch
+- [Martin Fowler on the different types of Event Driven Arch](https://www.youtube.com/watch?v=STKCRSUsyP0)
+  - Event Notifications
+  - Event carried State Transfer
+  - Event Sourcing
+  - CQRS
+
 ### Functional Programming
 
 -   [NOTES: General Notes](fp/general.md)
