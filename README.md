@@ -68,6 +68,12 @@ Hi, this is a spot where I put all my notes on code.
 
 -   [SLIDEDECK: Martin Folwers Testing Microservices Deck](https://martinfowler.com/articles/microservice-testing/)
 -   [NOTES: DDD Testing Strategy](https://gitlab.com/crafts-records/talkadvisor/talkadvisor-back/blob/master/TestingStrategy.md)
+- [Good overview of all types of tests](https://martinfowler.com/articles/practical-test-pyramid.html#IntegrationTests)
+  - unit
+  - integration
+  - contract (required only for microservices scenario)
+  - UI
+  - E2E
 
 ### Big Data
 
